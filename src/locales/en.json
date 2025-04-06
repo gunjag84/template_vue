@@ -1,0 +1,19 @@
+{
+  "login_welcome": "Welcome to the app!",
+  "loading": "Loading...",
+  "profile": "Profile",
+  "app_name": "Vue App",
+  "home": "Home",
+  "about": "About",
+  "welcome_message": "Welcome to the Application",
+  "home_description": "This is the home page of the application.",
+  "about_description": "This is the about page of the application.",
+  "switch_to_light": "Switch to light mode",
+  "switch_to_dark": "Switch to dark mode",
+  "theme_toggle": "Toggle theme",
+  "theme_demo": "Theme Demonstration",
+  "current_theme": "Current theme",
+  "light_mode": "Light mode",
+  "dark_mode": "Dark mode",
+  "features": "Features"
+}

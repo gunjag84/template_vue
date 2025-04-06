@@ -1,0 +1,19 @@
+{
+  "loading": "Laden...",
+  "login_welcome": "Willkommen in der App!",
+  "profile": "Profil",
+  "app_name": "Vue App",
+  "home": "Startseite",
+  "about": "Über uns",
+  "welcome_message": "Willkommen bei der Anwendung",
+  "home_description": "Dies ist die Startseite der Anwendung.",
+  "about_description": "Dies ist die Infoseite der Anwendung.",
+  "switch_to_light": "Zum hellen Modus wechseln",
+  "switch_to_dark": "Zum dunklen Modus wechseln",
+  "theme_toggle": "Thema umschalten",
+  "theme_demo": "Thema-Demonstration",
+  "current_theme": "Aktuelles Thema",
+  "light_mode": "Heller Modus",
+  "dark_mode": "Dunkler Modus",
+  "features": "Funktionen"
+}
